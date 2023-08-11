@@ -1,0 +1,36 @@
+#container{
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+#form{
+    margin: 20px;
+}
+#task{
+    padding: 12px 20px;
+    margin: 8px 0;
+    width:80%;
+    box-sizing: border-box;
+
+}
+#add-task{
+    background-color: lime;
+    width: 20%;
+    padding: 20px 18px;
+    color: white;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+
+}
+ul{
+    
+ 
+    list-style: none;
+
+}
+li{
+background-color: #f9f9f9;
+padding: 10px;
+margin-bottom: 10px;
+}
